@@ -1,6 +1,6 @@
 #!name=Apple WLOC 定位修改
 #!desc=修改 Apple 网络定位返回坐标
-#!icon=https://raw.githubusercontent.com/Yu9191/wloc/refs/heads/main/wloc.jpg
+#!icon=https://github.com/LitchiCherry/icon/blob/574d3c9c5659a670ba5fae240310cd9de81ff871/dog2.png
 #!openUrl=https://wloc-pages.pages.dev/
 
 [Argument]
